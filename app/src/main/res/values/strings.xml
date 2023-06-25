@@ -1,4 +1,4 @@
 <resources>
     <!--  app名称   -->
-    <string name="lxhlw-TV盒子">TVBox</string>
+    <string name="app_name">lxhlw-TV盒子</string>
 </resources>
